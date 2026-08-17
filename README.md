@@ -2,7 +2,7 @@
 
 I'm **Diogo Rafael Silva**, a Backend Developer specializing in **Oracle PL/SQL** and **batch processing** in critical financial systems. Currently @ **Closer Consulting** (allocated to **Novo Banco**).
 
-When I'm not building stored procedures and orchestrating batch jobs, I'm working on web projects, ferramentas and maintaining a homelab that's perpetually "under construction" 🏠
+When I'm not building stored procedures and orchestrating batch jobs, I'm working on web projects, tools and maintaining a homelab that's perpetually "under construction" 🏠
 
 ---
 
