@@ -1,4 +1,4 @@
-# Hey there
+# Hey there!
 
 I'm **Diogo Rafael Silva**, a Backend Developer specializing in **Oracle PL/SQL** and **batch processing** in critical financial systems. Currently @ **Closer Consulting** (allocated to **Novo Banco**).
 
