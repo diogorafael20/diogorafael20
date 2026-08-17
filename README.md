@@ -1,12 +1,12 @@
-# Hey there 👋
+# Hey there
 
 I'm **Diogo Rafael Silva**, a Backend Developer specializing in **Oracle PL/SQL** and **batch processing** in critical financial systems. Currently @ **Closer Consulting** (allocated to **Novo Banco**).
 
-When I'm not building stored procedures and orchestrating batch jobs, I'm working on web projects, tools and maintaining a homelab that's perpetually "under construction" 🏠
+When I'm not building stored procedures and orchestrating batch jobs, I'm working on web projects, tools and maintaining a homelab that's perpetually "under construction".
 
 ---
 
-## 💼 Experience
+## Experience
 
 **Developer @ Closer Consulting** _(Aug 2025 - Present)_
 - Allocated to Novo Banco · Backend development in core financial systems
@@ -23,7 +23,7 @@ When I'm not building stored procedures and orchestrating batch jobs, I'm workin
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 **Backend:** Oracle PL/SQL · Control-M · Batch Processing · ETL/Data Integration  
 **Infrastructure:** Linux/Unix · Shell Scripting · Docker · Nginx Proxy Manager · Pi-hole  
@@ -33,10 +33,13 @@ When I'm not building stored procedures and orchestrating batch jobs, I'm workin
 
 ---
 
-## 📦 Projects
+## Projects
 
 ### [diogorafael.com](https://diogorafael.com)
 Personal portfolio site. Dark minimalist design built with vanilla HTML/CSS/JS. Deployed via Cloudflare Pages.
+
+### [InfoPT](https://diogorafael20.github.io/infopt/)
+Portuguese news aggregator with backend API, web app, and mobile app. Real-time news from multiple sources — Portugal, International, Sports, Finance.
 
 ### [comparador.pt](https://comparadorpt.pages.dev)
 Neutral price comparison tool for domestic costs in Portugal (fuel, telecom, electricity, banking). Built with Vite + React on Cloudflare Pages Functions.
@@ -49,7 +52,7 @@ Multiple machines & OS — reverse proxy with Docker + Nginx Proxy Manager, Pi-h
 
 ---
 
-## 🔗 Links
+## Links
 
 - **Website:** [diogorafael.com](https://diogorafael.com)
 - **LinkedIn:** [linkedin.com/in/diogosilva20](https://linkedin.com/in/diogosilva20)
