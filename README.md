@@ -49,12 +49,6 @@ Multiple machines & OS — reverse proxy with Docker + Nginx Proxy Manager, Pi-h
 
 ---
 
-## 📊 Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=diogorafael20&show_icons=true&theme=dark)
-
----
-
 ## 🔗 Links
 
 - **Website:** [diogorafael.com](https://diogorafael.com)
