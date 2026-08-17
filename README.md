@@ -42,10 +42,10 @@ Personal portfolio site. Dark minimalist design built with vanilla HTML/CSS/JS. 
 Neutral price comparison tool for domestic costs in Portugal (fuel, telecom, electricity, banking). Built with Vite + React on Cloudflare Pages Functions.
 
 ### [CARM Medical Concept](https://carmmedicalconcept.com)
-Institutional website for medical clinic in Porto. Single-file Cloudflare Worker with optimized content delivery.
+Institutional website for medical clinic in Porto. Single-file Cloudflare Worker. DNS & email infrastructure via Cloudflare.
 
 ### [Self-hosting & Homelab](https://github.com/diogorafael20)
-Multiple machines & OS — reverse proxy with Docker + Nginx Proxy Manager, Pi-hole, media stack (Jellyfin + *arr suite), DNS & email via Cloudflare.
+Multiple machines & OS — reverse proxy with Docker + Nginx Proxy Manager, Pi-hole, media stack (Jellyfin + *arr suite).
 
 ---
 
